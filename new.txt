@@ -1,3 +1,7 @@
 push to remote git hub
 
+<<<<<<< HEAD
 addding a line
+=======
+Merge conflict
+>>>>>>> a8d5add4722efd2a9fd18a6a4c6afeab82313e7f
